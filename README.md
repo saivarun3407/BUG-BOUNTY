@@ -1,11 +1,10 @@
 # BUG-BOUNTY 
  
-
 STEP-BY-STEP ARTICLE ON BUG BOUNTY BY GOWTHAM:
 
 https://gowthams.gitbook.io/bughunter-handbook/
 
-BLOG:  
+BLOG :  
 
 https://thexssrat.medium.com/bug-bounty-methodology-v3-0-hunt-like-a-rat-9e030fc54363
 
