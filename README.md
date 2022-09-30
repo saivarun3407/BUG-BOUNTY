@@ -1,7 +1,5 @@
 # BUG-BOUNTY 
- Here’s a list of all the bug bounty programs that are currently active.
->^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>
-Search this domain and add Bug Bounty or Responsible Vulnerability Visclousure program.
+ 
 
 STEP-BY-STEP ARTICLE ON BUG BOUNTY BY GOWTHAM:
 
@@ -26,7 +24,7 @@ https://github.com/daffainfo/AllAboutBugBounty#readme
 
 >^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>
 
- 
+
 
 
 
