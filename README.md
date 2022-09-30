@@ -22,7 +22,7 @@ https://github.com/disclose/bug-bounty-platforms
 https://github.com/daffainfo/AllAboutBugBounty#readme
 
 
-Introducing 26 cybersecurity YouTube channels:
+Introducing 26 cybersecurity YouTube channels-:
 
 1. Infosec Institute — Cybersecurity awareness.
 2. Black Hat — Technical cybersecurity conferences.
