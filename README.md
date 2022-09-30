@@ -18,7 +18,7 @@ https://bughacking.com/best-bug-bounty-platforms/
 
 >^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>^>
 
-GITHUB- REPO:  
+GITHUB-REPO:  
 
 https://github.com/disclose/bug-bounty-platforms
 
